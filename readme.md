@@ -1,4 +1,4 @@
-Url to QR code generator
+Url to QR code generator Chrome extension app
 =================
 
 #### Description
@@ -13,7 +13,7 @@ This is the google chrome extension app that converts the recent visited url in 
 
 Click in load unpacked button
 
-[Imgur](https://i.imgur.com/jWGZm0Z.png)
+![Imgur](https://i.imgur.com/jWGZm0Z.png)
 
 Refresh the browser and you will see the qrcode icon in the right top side of browser
 

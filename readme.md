@@ -11,13 +11,13 @@ This is the google chrome extension app that converts the recent visited url in 
 
 > Open the chrome browser and type ``` chrome://extensions```
 
-Click in load unpacked button
+- Click in load unpacked button
 
 ![Imgur](https://i.imgur.com/jWGZm0Z.png)
 
-select the cloned project ```qrcoode-generator``` folder
+- select the cloned project ```qrcoode-generator``` folder
 
-Refresh the browser and you will see the qrcode icon in the right top side of browser
+- Refresh the browser and you will see the qrcode icon in the right top side of browser
 
 ![Imgur](https://i.imgur.com/OJUztSR.png)
 
